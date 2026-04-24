@@ -168,4 +168,4 @@ This is a demonstration project. For production use, consider:
 
 ---
 
-**Built with ❤️ using Groq's fast APIs**
+**Built with Atharv using Groq's fast APIs**
